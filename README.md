@@ -1,4 +1,4 @@
-<h1 align="center">Rizve</h1>
+<h1 align="center">KryptIT</h1>
 <div align="center">
   <h5>Sigma boy skidding programmer</h5>
   <h6> I learn from skidding (not).</h6>
