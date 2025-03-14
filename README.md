@@ -37,4 +37,4 @@
   <h3>Support</h3>
   <a href="https://discord.gg/tQFsp465BK"><img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark"></a>
 </div>
-<img height=15 align="right" src="https://komarev.com/ghpvc/?username=Skid-ve&abbreviated=true" />
+<img height=15 align="right" src="https://komarev.com/ghpvc/?username=KryptIT&abbreviated=true" />
