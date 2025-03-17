@@ -2,7 +2,7 @@
 <div align="center">
   <h5>Sigma boy skidding programmer</h5>
   <h6> I learn from skidding (not).</h6>
-  <h7>my name is just a joke</h7>
+  <h7>my description is a joke did i tell you that?</h7>
 </div>
 <div align="center">
   <h3>Languages</h3>
